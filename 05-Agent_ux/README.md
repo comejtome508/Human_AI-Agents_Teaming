@@ -1,0 +1,5 @@
+## AI Business
+||Title|Description|Detail|Link|Insight|
+|-|---|---|---|---|---|
+|1|시장 기회는 ‘공감’에 있다… ‘AI 에이전트’ 국내외 동향 | |[Detail]()|[Link](https://ditoday.com/%ea%b3%b5%ea%b0%90-%ea%b0%90%ec%84%b1-%ea%b8%b0%ec%88%a0%eb%a1%9c-%eb%82%98%ec%95%84%ea%b0%80%eb%8a%94-%ec%9d%b8%ea%b3%b5%ec%a7%80%eb%8a%a5-%eb%94%94%ec%a7%80%ed%84%b8-%ec%97%90%ec%9d%b4%ec%a0%84/)|[Insight](https://github.com/comejtome508/Human_AI-Agents_Teaming/blob/main/05-Agent_ux/Insights/%EC%8B%9C%EC%9E%A5%20%EA%B8%B0%ED%9A%8C%EB%8A%94%20%E2%80%98%EA%B3%B5%EA%B0%90%E2%80%99%EC%97%90%20%EC%9E%88%EB%8B%A4%E2%80%A6%20%E2%80%98AI%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%E2%80%99%20%EA%B5%AD%EB%82%B4%EC%99%B8%20%EB%8F%99%ED%96%A5.md)|
+
